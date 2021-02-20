@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my blog My name is Joseph
 
-I'm glad you are here. I plan to talk about ...
+So this is the first experiment of my travels into the wide world of Github, I sure hope this works.
+
+lets see what happens
